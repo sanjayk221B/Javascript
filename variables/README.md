@@ -1,6 +1,6 @@
 # JavaScript Variables
 
-This folder covers the fundamental concepts of variables in JavaScript, suitable for beginners starting from zero knowledge.
+This folder covers the fundamental concepts of variables in JavaScript, suitable for beginners starting from zero.
 
 ## Contents
 

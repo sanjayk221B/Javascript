@@ -15,5 +15,5 @@ This repository is dedicated to various JavaScript concepts. Each concept is doc
 Navigate through the folders to explore different JavaScript concepts. Each folder contains:
 - Example code in `.js` files.
 - A `README.md` file explaining the concept in detail.
-- A `problems.js` file highlighting common issues and how to resolve them (if applicable). 
+- A `problems.js` file highlighting common issues and how to resolve them (if applicable).  
 

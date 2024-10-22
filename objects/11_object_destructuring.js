@@ -14,7 +14,7 @@ let person = {
 };
 
 // Basic object destructuring
-let { name, age } = person;
+// let { name, age } = person;
 console.log(name); // John Doe
 console.log(age); // 30
 

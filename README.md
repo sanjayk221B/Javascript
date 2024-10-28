@@ -20,6 +20,9 @@ This repository is dedicated to various JavaScript concepts. Each concept is doc
 ### 5. Control Flow
 - [Control Flow](control-flow/README.md): Master conditional statements, loops, and program flow control in JavaScript.
 
+### 6. Arrays
+- [Arrays](arrays/README.md): Learn about array creation, manipulation, methods, and working with array data in JavaScript.
+
 ## How to Use This Repository
 Navigate through the folders to explore different JavaScript concepts. Each folder contains:
 - Example code in `.js` files.
